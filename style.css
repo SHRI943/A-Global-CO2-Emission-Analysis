@@ -1,0 +1,67 @@
+head{
+  margin: auto;
+  margin-left: 10px;
+  border-width: 10px;
+  border-color: rgb(3, 61, 61);
+  padding: 20px;
+}
+/**/
+h1{
+  background-color: #fff;
+}
+h2{
+  background-color: #fff;
+}
+h3{
+  background-color: #7bc2f4;
+}
+p{
+  font-weight: bold;
+}
+.names
+{
+  background-color: rgba(255, 255, 255, 0.498);
+  width: 500px;
+  height: 150px;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 10px;
+  margin: 20px;
+}
+body{
+  /*background-color: rgb(251, 255, 0);*/
+  background-image: url("https://wallpapercave.com/wp/wp6100370.jpg");
+  
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+/* Center align the text in the navbar */
+#navbar {
+  text-align: center;
+}
+
+/* Style the list items (li buttons) */
+#navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar li {
+  display: inline-block;
+  margin: 0 10px; /* Adjust the spacing between buttons as needed */
+}
+
+#navbar li a {
+  display: block;
+  padding: 10px 20px;
+  background-color: #f5eff0; /* Change the background color to your desired color */
+  color: #000000; /* Set the text color */
+  text-decoration: none;
+  border-radius: 5px; /* Add rounded corners for a more attractive look */
+}
+
+#navbar li a:hover {
+  background-color: #2980b9; /* Change the background color on hover */
+}
