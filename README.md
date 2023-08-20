@@ -33,8 +33,13 @@ https://drive.google.com/file/d/1rkdFEUBrD2146ukx7kNWGv-nJXVLpW-f/view?usp=drive
 Finally....
 
 Video Links for end to end solution:
-Database Connection with Tableau Video https://drive.google.com/file/d/193jEptaMRIA0OlksHgc1Cb9pq_UNqc97/view?usp=drive_link
+
+Database Connection with Tableau Video
+https://drive.google.com/file/d/193jEptaMRIA0OlksHgc1Cb9pq_UNqc97/view?usp=drive_link
+
 Story Video
 https://drive.google.com/file/d/1QSMWNqwjREKHTr9nzBjYA8fizXUReb6v/view?usp=drive_link
+
+
 User Interface Front-End
 https://drive.google.com/drive/folders/1jzAyTld8QKxsFdHD7o9xy_PcZKWzB6hZ?usp=drive_link
